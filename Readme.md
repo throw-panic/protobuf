@@ -5,7 +5,7 @@
 [![Build Status](https://travis-ci.org/gogo/protobuf.svg?branch=master)](https://travis-ci.org/gogo/protobuf)
 [![GoDoc](https://godoc.org/github.com/gogo/protobuf?status.svg)](http://godoc.org/github.com/gogo/protobuf)
 
-gogoprotobuf is a fork of <a href="https://github.com/golang/protobuf">golang/protobuf</a> with extra code generation features.
+***gogoprotobuf*** is a fork of <a href="https://github.com/golang/protobuf">golang/protobuf</a> with extra code generation features.
 
 This code generation is used to achieve:
 
