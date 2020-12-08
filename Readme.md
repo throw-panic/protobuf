@@ -1,3 +1,9 @@
+
+
+# gogoprotobuf 是golang/protobuf的一个分支，具有额外的代码生成特性。
+
+
+
 [GoGo Protobuf looking for new ownership](https://github.com/gogo/protobuf/issues/691)
 
 # Protocol Buffers for Go with Gadgets
